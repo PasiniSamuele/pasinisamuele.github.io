@@ -278,18 +278,22 @@
     {% if entry.mla %}
       <!-- Hidden mla block -->
       <div class="mla hidden">
+        <p>
           {% highlight mla %}
           {{- entry.mla -}}
           {% endhighlight %}
+        </p>
       </div>
     {% endif %}
 
     {% if entry.apa %}
       <!-- Hidden apa block -->
       <div class="apa hidden">
+        <p>
           {% highlight apa %}
           {{- entry.apa -}}
           {% endhighlight %}
+          </p>
       </div>
     {% endif %}
 

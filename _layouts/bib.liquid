@@ -165,7 +165,7 @@
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
       {% if entry.mla %}
-        <a class="bibtex btn btn-sm z-depth-0" role="button">MLA</a>
+        <a class="mla btn btn-sm z-depth-0" role="button">MLA</a>
       {% endif %}
       {% if entry.html %}
         <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
@@ -274,8 +274,7 @@
 
     {% if entry.mla %}
       <!-- Hidden bibtex block -->
-      <div class="abstract hidden">
-        <div class="bibtex hidden">
+      <div class="mla hidden">
           {% highlight bibtex %}
           {{- entry.mla -}}
           {% endhighlight %}

@@ -167,6 +167,9 @@
       {% if entry.mla %}
         <a class="mla btn btn-sm z-depth-0" role="button">MLA</a>
       {% endif %}
+      {% if entry.apa %}
+        <a class="apa btn btn-sm z-depth-0" role="button">APA</a>
+      {% endif %}
       {% if entry.html %}
         <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
       {% endif %}
@@ -277,6 +280,15 @@
       <div class="mla hidden">
           {% highlight bibtex %}
           {{- entry.mla -}}
+          {% endhighlight %}
+      </div>
+    {% endif %}
+
+    {% if entry.apa %}
+      <!-- Hidden bibtex block -->
+      <div class="apa hidden">
+          {% highlight bibtex %}
+          {{- entry.apa -}}
           {% endhighlight %}
       </div>
     {% endif %}

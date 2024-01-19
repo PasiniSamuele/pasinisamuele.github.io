@@ -20,3 +20,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing.
 {% endquote %}
 
 If you would like something more academic, check the [distill style post]({% post_url 2018-12-22-distill %}).
+
+

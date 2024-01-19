@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - PasiniSamuele
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - PasiniSamuele/RAG_secure_code_generation
+  - PasiniSamuele/LLM_research_assistant
+  - PasiniSamuele/ECycleGAN-face-emotion
+  - fasana-corrado/RGB-Mosaicing-via-Multigraph-Synchronization

@@ -804,6 +804,20 @@ footer.sticky-bottom {
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
       }
+      div.mla.hidden {
+        border: dashed 1px var(--global-bg-color);
+      }
+
+      div.mla.hidden.open {
+        border-color: var(--global-text-color);
+      }
+      div.apa.hidden {
+        border: dashed 1px var(--global-bg-color);
+      }
+
+      div.apa.hidden.open {
+        border-color: var(--global-text-color);
+      }
     }
   }
 }

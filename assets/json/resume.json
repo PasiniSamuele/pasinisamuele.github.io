@@ -176,6 +176,20 @@
       "highlights": ["Deep Learning", "Computer Vision", "Remote Sensing"],
       "startDate": "2022",
       "endDate":"2022"
+    },
+    {
+      "name": "A Generative Approach for Facial Expression Data Augmentation",
+      "summary": "Advanced Deep Learning Conference - Politecnico di Milano",
+      "highlights": ["Deep Learning", "Computer Vision", "GAN"],
+      "startDate": "2022",
+      "endDate":"2022"
+    },
+    {
+      "name": "RGB Image Mosaicing via Multi-Graph Synchronization",
+      "summary": "Computer Vision Conference - Politecnico di Milano",
+      "highlights": ["Computer Vision", "Image Mosaicing"],
+      "startDate": "2022",
+      "endDate":"2022"
     }
   ]
 }

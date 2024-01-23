@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: teaching
 permalink: /teaching/
 title: Teaching
-description: My teaching material.
+shown_title: Teaching
 nav: true
 nav_order: 6
 ---
-
-There is no material at the moment.

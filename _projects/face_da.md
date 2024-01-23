@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Facial Expression
+title: Facial Expression DA
 description: A generative approach for Facial Expression Data Augmentation
 importance: 1
 related_publications: false

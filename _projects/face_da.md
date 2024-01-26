@@ -2,7 +2,7 @@
 layout: distill
 title: Facial Expression DA
 description: A generative approach for Facial Expression Data Augmentation
-importance: 1
+importance: 2
 related_publications: false
 bibliography: 2022-11-27-cycle.bib
 

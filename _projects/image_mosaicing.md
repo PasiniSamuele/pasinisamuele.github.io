@@ -2,7 +2,7 @@
 layout: distill
 title: Image Mosaicing
 description: RGB Image Mosaicing via Multi-graph synchronization
-importance: 1
+importance: 2
 related_publications: false
 bibliography: 2022-10-18-mosaicing.bib
 

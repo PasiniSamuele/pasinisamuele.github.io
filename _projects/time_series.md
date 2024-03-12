@@ -2,7 +2,7 @@
 layout: distill
 title: Time Series Prediction
 description: Analysis and Predition of Time Series for Polimi Competition
-importance: 3
+importance: 4
 related_publications: false
 ---
 

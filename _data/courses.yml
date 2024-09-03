@@ -1,3 +1,19 @@
+- title: Numerical Computing
+  type: time_table_teaching
+
+  contents:
+    - title: Teaching Assistant
+      institution: Università della Svizzera italiana
+      year: Fall 2024
+
+- title: PyTorch
+  type: time_table_teaching
+
+  contents:
+    - title: Teacher
+      institution: ProfessionAI
+      year: Spring 2024
+      
 - title: Data Management
   type: time_table_teaching
 
@@ -6,3 +22,6 @@
       institution: Università della Svizzera italiana
       year: Spring 2024
     
+
+    
+        

@@ -41,6 +41,14 @@
       "highlights": ["Deep Learning", "NLP", "LLM"]
     },
     {
+      "name": "ProfessionAI",
+      "position": "Teacher",
+      "startDate": "2024",
+      "endDate": "now",
+      "summary": "Teacher of PyTorch course",
+      "highlights": ["Deep Learning", "Computer Vision", "PyTorch"]
+    },
+    {
       "name": "Mindearth",
       "position": "Computer Vision Engineer",
       "startDate": "2023",

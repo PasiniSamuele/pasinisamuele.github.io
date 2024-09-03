@@ -12,11 +12,11 @@ I'm excited to share some snapshots from this memorable experience. These photos
 <div class="row justify-content-sm-center">
     <div class="row justify-content-sm-center">
 
-        <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="col-sm-4 mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/acdl24/01.jpeg" class="img-fluid rounded z-depth-1" %}
         </div>
 
-        <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="col-sm-4 mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/acdl24/02.jpeg" class="img-fluid rounded z-depth-1" %}
         </div>
     
@@ -26,11 +26,11 @@ I'm excited to share some snapshots from this memorable experience. These photos
 <div class="row justify-content-sm-center">
     <div class="row justify-content-sm-center">
 
-        <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="col-sm-4 mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/acdl24/03.jpeg" class="img-fluid rounded z-depth-1" %}
         </div>
 
-        <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="col-sm-4 mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/acdl24/04.jpeg" class="img-fluid rounded z-depth-1" %}
         </div>
     
@@ -40,7 +40,7 @@ I'm excited to share some snapshots from this memorable experience. These photos
 <div class="row justify-content-sm-center">
     <div class="row justify-content-sm-center">
 
-        <div class="col-sm-12 mt-3 mt-md-0">
+        <div class="col-sm-8 mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/acdl24/05.jpeg" class="img-fluid rounded z-depth-1" %}
         </div>
     
@@ -51,7 +51,7 @@ I'm excited to share some snapshots from this memorable experience. These photos
 <div class="row justify-content-sm-center">
     <div class="row justify-content-sm-center">
 
-        <div class="col-sm-12 mt-3 mt-md-0">
+        <div class="col-sm-8 mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/acdl24/06.jpeg" class="img-fluid rounded z-depth-1" %}
         </div>
     
@@ -85,7 +85,7 @@ I'm excited to share some snapshots from this memorable experience. These photos
     <div class="row justify-content-sm-center">
 
         <div class="col-sm-12 mt-3 mt-md-0">
-            {% include video.liquid  path="assets/img/acdl24/09.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+            {% include video.liquid  path="assets/img/acdl24/09.mp4" class="img-fluid rounded z-depth-1" controls=true  %}
         </div>
     
 

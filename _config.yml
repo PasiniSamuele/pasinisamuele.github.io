@@ -169,6 +169,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  moments:
+    output: true
+    permalink: /moments/:path/
 
 
 announcements:

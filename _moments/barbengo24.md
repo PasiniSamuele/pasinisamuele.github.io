@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: AI Workshop Barbengo
-description: AI and Autonomous Driving Workshop in <b>Barbengo</b>, Switzerland
+description: AI Workshop in <b>Barbengo</b>, Switzerland
 importance: 2
 img: /assets/img/barbengo/thumb.jpg
 

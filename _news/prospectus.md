@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-11-20 09:00:00-0400
+date: 2024-11-19 09:00:00-0400
 inline: false
 related_posts: false
 title: I successfully presented my Research Prospectus achieving a key PhD milestone! I am excited for the journey ahead.

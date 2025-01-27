@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-01-27 18:00:00-0400
+date: 2025-01-26 18:00:00-0400
 inline: false
 related_posts: false
 title: Amazing Experience at Sportech 2025!

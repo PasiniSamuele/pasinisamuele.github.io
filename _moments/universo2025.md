@@ -23,24 +23,13 @@ img: /assets/img/universo2025/thumb.jpg
     <div class="row justify-content-sm-center">
 
         <div class="col-sm-12 mt-3 mt-md-0">
-            {% include figure.liquid loading="eager" path="assets/img/universo2025/03.png" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/universo2025/03.jpg" class="img-fluid rounded z-depth-1" %}
         </div>
     
     </div>
 </div>
 
 
-
-<div class="row justify-content-sm-center">
-    <div class="row justify-content-sm-center">
-
-        <div class="col-sm-12 mt-3 mt-md-0">
-            {% include video.liquid  path="assets/img/sportech2025/05.mp4" class="img-fluid rounded z-depth-1" controls=true  %}
-        </div>
-    
-
-    </div>
-</div>
 
 <div class="row justify-content-sm-center">
     <div class="row justify-content-sm-center">

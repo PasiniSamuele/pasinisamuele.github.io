@@ -8,6 +8,7 @@ packages = [{include = "pasinisamuele"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
+jupyter = "^1.1.1"
 
 
 [build-system]

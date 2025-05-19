@@ -11,10 +11,12 @@ Formula USI at UniVerso 2025: Navigating Dynamic Tracks with AI!
 
 ---
 
-I had the honor of presenting at the 20 Years USI Alumni in Informatics Reunion in Lugano, at USI Università della Svizzera italiana. My presentation was titled "Security Challenges of Large Language Models" and it discussed fundamental challenges and attacks such as Prompt Injection, Model Poisoning, and Jailbreak. These issues are a central theme of my PhD research at the Software Institute (USI) and the talk was a great opportunity to share them with the listeners.
+This past weekend, I had the opportunity to showcase our autonomous racing project, Formula USI, at UniVerso 2025, the open day of USI Università della Svizzera italiana. It was a great opportunity to present the latest advancements of AI-driven autonomous vehicles to a diverse group of visitors, ranging from curious children to tech enthusiasts.
 
-I was delighted to see that the talk generated an energetic response from the audience, which was primarily composed of informatics graduates now working in various tech industries. The following discussions highlighted a crucial point: while LLMs are increasingly integrated into services and products, awareness of their security challenges and implications is often lacking.
+A standout feature of our demonstration was the use of dynamically projected tracks. As flexible routes were projected onto the floor, our 1:16 scale autonomous vehicles followed dynamic paths in real time, showcasing their ability to adapt instantaneously to new challenges. Not only was this a hit with the crowd, but it also showed what AI can do in dynamic environments.
 
-This gap between research at a university and business application is critical, and this disparity points out the necessity of cooperation. Bridging this disparity is essential to ensure that developments in AI are innovative as well as secure.
+My heartfelt thank you to the Software Institute (USI) and Prof. Paolo Tonella for supporting my participation, and to Eng. Mauro Prevostini for the kind invitation. My deepest gratitude to my collaborators, Dr. Roberto Minelli and Gianmarco De Vita, whose dedication brought this demo to life.
 
-A heartfelt thank you to Eng. Mauro Prevostini and Professor Paolo Tonella for the opportunity to contribute to this significant event. Their support underscores the value of fostering connections between academia and industry.
+Events like UniVerso bridge the divide between the public and the university, showing the real-world relevance of our work. I am grateful to be part of a community that values innovation and engagement.
+
+You can find some snapshots from this Formula USI in <a href = "https://pasinisamuele.github.io/moments/universo2025/">Moments</a>

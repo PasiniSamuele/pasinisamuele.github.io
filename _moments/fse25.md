@@ -3,7 +3,7 @@ layout: distill
 title: FSE-ISSTA 2025
 description: Conference in <b>Trondheim</b>, Norway
 importance: 1
-img: /assets/img/fse25/thumb.jpg
+img: /assets/img/fse2025/thumb.jpg
 
 ---
 Last week in Trondheim, Norway, I was honored to be part of FSE & ISSTA 2025, two top conferences on software engineering research. I was especially energized by the talks on LLM testing, deep learning-based test generation, and agentic LLM engineering—areas where AI and SE research blend with practical applications.

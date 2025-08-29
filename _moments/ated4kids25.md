@@ -2,7 +2,7 @@
 layout: distill
 title: Ated4Kids 2025
 description: Summer Camp in <b>Melide</b>, Switzerland
-importance: 1
+importance: 2
 img: /assets/img/ated4kids25/thumb.jpg
 
 ---

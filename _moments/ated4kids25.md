@@ -13,11 +13,11 @@ A Glimpse into the Summer Camp!
     <div class="row justify-content-sm-center">
 
         <div class="col-sm-6 mt-3 mt-md-0">
-            {% include figure.liquid loading="eager" path="assets/img/ated4kids25/01.jpeg" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/ated4kids25/01.jpg" class="img-fluid rounded z-depth-1" %}
         </div>
 
         <div class="col-sm-6 mt-3 mt-md-0">
-            {% include figure.liquid loading="eager" path="assets/img/ated4kids25/02.jpeg" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/ated4kids25/02.jpg" class="img-fluid rounded z-depth-1" %}
         </div>
     
 
@@ -27,11 +27,11 @@ A Glimpse into the Summer Camp!
     <div class="row justify-content-sm-center">
 
         <div class="col-sm-6 mt-3 mt-md-0">
-            {% include figure.liquid loading="eager" path="assets/img/ated4kids25/03.jpeg" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/ated4kids25/03.jpg" class="img-fluid rounded z-depth-1" %}
         </div>
 
         <div class="col-sm-6 mt-3 mt-md-0">
-            {% include figure.liquid loading="eager" path="assets/img/ated4kids25/04.jpeg" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/ated4kids25/04.jpg" class="img-fluid rounded z-depth-1" %}
         </div>
     
 

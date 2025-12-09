@@ -2,7 +2,7 @@ github_users:
   - PasiniSamuele
 
 github_repos:
-  - PasiniSamuele/RAG_secure_code_generation
+  - PasiniSamuele/Robust-Attack-Detectors-LLM
   - PasiniSamuele/LLM_research_assistant
   - PasiniSamuele/ECycleGAN-face-emotion
   - fasana-corrado/RGB-Mosaicing-via-Multigraph-Synchronization

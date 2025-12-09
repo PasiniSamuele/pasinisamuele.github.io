@@ -4,6 +4,23 @@
   contents:
     - title: Teaching Assistant
       institution: Università della Svizzera italiana
+      year: Spring 2026
+
+- title: Probability and Statistics
+  type: time_table_teaching
+
+  contents:
+    - title: Teaching Assistant
+      institution: Università della Svizzera italiana
+      year: Fall 2025
+
+
+- title: Machine Learning
+  type: time_table_teaching
+
+  contents:
+    - title: Teaching Assistant
+      institution: Università della Svizzera italiana
       year: Spring 2025
 
 - title: PyTorch

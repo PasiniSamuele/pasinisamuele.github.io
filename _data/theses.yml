@@ -1,3 +1,13 @@
+- title: A Customized RAG-Based Chatbot for iCorsi
+  type: time_table_thesis
+
+  contents:
+    - title: Co-Supervisor
+      institution: Università della Svizzera italiana
+      student: Gianluca Maragliano
+      year: Spring 2026
+    
+
 - title: Security Testing of Input Validators using Deep Reinforcement Learning
   type: time_table_thesis
 

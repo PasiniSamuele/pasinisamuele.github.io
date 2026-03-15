@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: PHÄNOMENA on Tour
+title: Phänomena On Tour
 description: Interactive Exhibition in Switzerland
 importance: 1
 img: /assets/img/phaenomena/thumb.jpg

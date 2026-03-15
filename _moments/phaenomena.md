@@ -105,7 +105,7 @@ We also enjoyed the other installation of the exhibition.
         </div>
 
         <div class="col-sm-6 mt-3 mt-md-0">
-            {% include video.liquid  path="assets/img/phaenomena/12.mp4" class="img-fluid rounded z-depth-1" controls=true  %}
+            {% include video.liquid  path="assets/img/phaenomena/16.mp4" class="img-fluid rounded z-depth-1" controls=true  %}
         </div>
      </div>
 

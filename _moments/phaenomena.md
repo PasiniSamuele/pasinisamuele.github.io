@@ -95,6 +95,17 @@ Here there are some snapshots from the first stop in Dietikon.
     </div>
 </div>
 
+ <div class="row justify-content-sm-center">
+    <div class="row justify-content-sm-center">
+
+        <div class="col-sm-6 mt-3 mt-md-0">
+            {% include video.liquid  path="assets/img/phaenomena/RSI.mp4" class="img-fluid rounded z-depth-1" controls=true  %}
+        </div>
+    
+
+    </div>
+</div>
+
 We also enjoyed the other installation of the exhibition.
 
 <div class="row justify-content-sm-center">

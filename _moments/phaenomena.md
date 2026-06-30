@@ -6,7 +6,18 @@ importance: 1
 img: /assets/img/phaenomena/thumb.jpg
 
 ---
-PHÄNOMENA on Tour is Interactive Exhibition that will cover several cities in Switzerland.
+PHÄNOMENA on Tour is Interactive Exhibition in Dietikon, Switzerland.
+
+<div class="row justify-content-sm-center">
+    <div class="row justify-content-sm-center">
+
+        <div class="col-sm-12 mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/phaenomena/balls.jpg" class="img-fluid rounded z-depth-1" %}
+        </div>
+    
+
+    </div>
+</div>
 
 We had the pleasure of presenting our interactive installation “Stay on Track!” during the inauguration in Dietikon, to a large audience—including the President of the Swiss Confederation, Guy Parmelin, marking the official kick-off of the PHÄNOMENA on Tour exhibition.
 

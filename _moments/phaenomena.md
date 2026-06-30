@@ -1,9 +1,9 @@
 ---
 layout: distill
-title: Phänomena On Tour
-description: Interactive Exhibition in Switzerland
+title: Phänomena
+description: Interactive Exhibition in <b>Dietikon</b>, Switzerland
 importance: 1
-img: /assets/img/phaenomena/thumb.jpg
+img: /assets/img/phaenomena/thumb-2.jpg
 
 ---
 PHÄNOMENA on Tour is Interactive Exhibition in Dietikon, Switzerland.

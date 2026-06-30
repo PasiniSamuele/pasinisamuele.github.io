@@ -1,8 +1,8 @@
 ---
 layout: distill
-title: AI Workshop Barbengo
+title: AI Workshop
 description: AI Workshop in <b>Barbengo</b>, Switzerland
-importance: 2
+importance: 4
 img: /assets/img/barbengo/thumb.jpg
 
 ---

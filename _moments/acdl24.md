@@ -2,7 +2,7 @@
 layout: distill
 title: ACDL 2024
 description: Summer School in <b>Castiglione della Pescaia</b>, Italy
-importance: 1
+importance: 2
 img: /assets/img/acdl24/thumb.jpg
 
 ---

@@ -2,7 +2,7 @@
 layout: distill
 title: Prospectus
 description: Research Prospectus, first milestone of PhD
-importance: 1
+importance: 2
 img: /assets/img/prospectus/thumb.jpg
 
 ---

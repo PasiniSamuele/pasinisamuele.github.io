@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: FSE-ISSTA 2025
+title: FSE-ISSTA 25
 description: Conference in <b>Trondheim</b>, Norway
 importance: 1
 img: /assets/img/fse2025/thumb.jpg

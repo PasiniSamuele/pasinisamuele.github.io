@@ -1,8 +1,8 @@
 ---
 layout: distill
 title: Universo 2025
-description: Open Day of USI. 
-importance: 1
+description: Promotional Event of USI in <b>Lugano</b>. 
+importance: 3
 img: /assets/img/universo2025/thumb.jpg
 
 ---

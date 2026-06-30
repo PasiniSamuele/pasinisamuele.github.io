@@ -2,7 +2,7 @@
 layout: distill
 title: Sportech 2025
 description: Event dedicated to Sports and Technology. 
-importance: 1
+importance: 3
 img: /assets/img/sportech2025/thumb.jpg
 
 ---
